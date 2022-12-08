@@ -1,5 +1,5 @@
 astroid @ file:///tmp/build/80754af9/astroid_1592495881661/work
-certifi==2020.6.20
+certifi==2022.12.7
 click==7.1.2
 isort==4.3.21
 joblib==0.15.1
